@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: BananaLoot Raider |cff33ff99(SR/Roll-Sync fuer Raider)|r
+## Notes: Schlankes Begleit-Addon zu BananaLoot fuer Raider (kein Masterloot). Roll-Sync-Popup, geteilte Loot-Historie, SR/unSR-Komfort per Shift-Klick.
+## Author: Du
+## Version: 1.1
+## SavedVariables: BananaLootRaider_DB
+
+BananaLootRaiderItemDB.lua
+BananaLootRaider.lua
+BananaLootRaiderUI.lua
+BananaLootRaiderExtra.lua

@@ -1,0 +1,19 @@
+# Identische Kopie von BananaLootRaider.toc, nur unter dem Namen des
+# GitHub-Repos (mit Bindestrich). WoW laedt pro AddOns-Unterordner nur
+# die .toc, deren Name exakt dem Ordnernamen entspricht; alle anderen
+# .toc-Dateien im selben Ordner werden ignoriert. Falls ein Addon-
+# Manager/Launcher den geklonten Ordner nach dem Repo-Namen benennt
+# ("BananaLoot-Raider" statt "BananaLootRaider"), greift diese Datei;
+# andernfalls greift BananaLootRaider.toc. Bei Aenderungen immer BEIDE
+# Dateien synchron halten.
+## Interface: 11200
+## Title: BananaLoot Raider |cff33ff99(SR/Roll-Sync fuer Raider)|r
+## Notes: Schlankes Begleit-Addon zu BananaLoot fuer Raider (kein Masterloot). Roll-Sync-Popup, geteilte Loot-Historie, SR/unSR-Komfort per Shift-Klick.
+## Author: Du
+## Version: 1.1
+## SavedVariables: BananaLootRaider_DB
+
+BananaLootRaiderItemDB.lua
+BananaLootRaider.lua
+BananaLootRaiderUI.lua
+BananaLootRaiderExtra.lua
